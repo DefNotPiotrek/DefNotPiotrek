@@ -1,4 +1,12 @@
-## Hi there 👋
+<b>Hi Vsauce! Jablo here 🍏</b>
+
+I'm Piotrek, a game designer and software programmer from Poland.
+
+I build apps that pops into my head.
+
+My favourite programming languages are c++ and java but I can learn anything else.
+
+Check out few of my projects shered on the public.
 
 <!--
 **DefNotPiotrek/DefNotPiotrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
